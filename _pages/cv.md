@@ -59,13 +59,13 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 
-****
-
 
 Highlight
-  本科信科，研究生统计，做非负矩阵分解与机器学习。
+=======
+  本科信科，研究生统计，做nmf与机器学习。
 
 Education
+=======
 硕士：
 * 统计学硕士
 * 学术类奖项
@@ -78,19 +78,23 @@ Education
 
   
 学术经历
+======
 * 专利
 * nmf
 
 活动
+======
 * 班委
 * 非学术类
 
 doing
+======
 * 风险管理部模型维护
-* KAGGLE比赛【开始刷get started】
+* KAGGLE比赛
 * python数据结构的课jupyter notebook
 
 
 Other Highlights
+=======
 * 助教
 * 答辩学生组长

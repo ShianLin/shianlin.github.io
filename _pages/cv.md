@@ -58,23 +58,21 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-
-
 Highlight
 =======
-  本科信科，研究生统计，做nmf与机器学习。
+* 本科信科，研究生统计，做nmf与机器学习。
 
 Education
 =======
-硕士：
-* 统计学硕士
-* 学术类奖项
-* 课程
+* 硕士：
+  * 统计学硕士
+  * 学术类奖项
+  * 课程
 
-本科：
-* 信息与计算科学 
-* 学术类奖项
-* 课程
+*本科：
+  * 信息与计算科学 
+  * 学术类奖项
+  * 课程
 
   
 学术经历

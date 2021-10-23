@@ -21,12 +21,12 @@ Education
   * Courses: Advanced Probability theory, Stochastic process theory, Advanced Mathematical Statistics, Modern regression analysis, Modern optimization methods, Statistical computation, Machine learning, Financial models and financial optimization  
 
 * Northeastern University at Qinhuangdao, 09/2014-06/2018
-  * 信息与计算科学 
-  * 学术类奖项
-  * 课程
+  * Bachelor of Information and Computing Science
+  * The 3rd-class scholarship of the university, every year;The 3rd-class Provincial College Students Mathematics Competitio(2015)
+  * Courses:Advanced algebra, mathematical analysis, operations research and optimization, probability theory and mathematical statistics, numerical analysis, discrete mathematics, real variables function, C++, data structures and algorithms, operating system principles, information theory, computer networks  
 
   
-学术经历
+Academic Experience
 ======
 * 专利
 * nmf

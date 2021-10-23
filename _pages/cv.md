@@ -16,8 +16,8 @@ Highlight
 Education
 =======
 * Xi’an Jiaotong University                                                09/2018-06/2021
-  * 统计学硕士
-  * 学术类奖项
+  * Master of Statistics
+  * The 3rd-class scholarship of the university(every year)
   * 课程
 
 * 本科：

@@ -9,6 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Highlight
+=======
+* 本科信科，研究生统计，做nmf与机器学习。
+
+Education
+=======
+* 硕士：
+  * 统计学硕士
+  * 学术类奖项
+  * 课程
+
+* 本科：
+  * 信息与计算科学 
+  * 学术类奖项
+  * 课程
+
+  
+学术经历
+======
+* 专利
+* nmf
+
+活动
+======
+* 班委
+* 非学术类
+
+doing
+======
+* 风险管理部模型维护
+* KAGGLE比赛
+* python数据结构的课jupyter notebook【kaggle】
+
+
+Other Highlights
+=======
+* 助教
+* 答辩学生组长
+* CSDN
+
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,42 +99,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
-Highlight
-=======
-* 本科信科，研究生统计，做nmf与机器学习。
-
-Education
-=======
-* 硕士：
-  * 统计学硕士
-  * 学术类奖项
-  * 课程
-
-* 本科：
-  * 信息与计算科学 
-  * 学术类奖项
-  * 课程
-
-  
-学术经历
-======
-* 专利
-* nmf
-
-活动
-======
-* 班委
-* 非学术类
-
-doing
-======
-* 风险管理部模型维护
-* KAGGLE比赛
-* python数据结构的课jupyter notebook
-
-
-Other Highlights
-=======
-* 助教
-* 答辩学生组长

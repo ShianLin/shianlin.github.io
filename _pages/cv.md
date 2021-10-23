@@ -18,9 +18,9 @@ Education
 * Xi’an Jiaotong University, 09/2018-06/2021
   * Master of Statistics
   * The 3rd-class scholarship of the university, every year
-  * Courses: Advanced Probability theory, Stochastic process theory, Advanced Mathematical Statistics, Modern regression analysis, Modern optimization methods, Statistical computation, machine learning, Financial models and financial optimization  
+  * Courses: Advanced Probability theory, Stochastic process theory, Advanced Mathematical Statistics, Modern regression analysis, Modern optimization methods, Statistical computation, Machine learning, Financial models and financial optimization  
 
-* 本科：
+* Northeastern University at Qinhuangdao, 09/2014-06/2018
   * 信息与计算科学 
   * 学术类奖项
   * 课程

@@ -15,7 +15,7 @@ Highlight
 
 Education
 =======
-* 硕士：
+* Xi’an Jiaotong University                                                09/2018-06/2021
   * 统计学硕士
   * 学术类奖项
   * 课程

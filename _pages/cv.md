@@ -9,20 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Highlight
+Personal Information
 =======
-* 本科信科，研究生统计，做nmf与机器学习。
+* Female | November 21, 1995
+* Email: shianlin2084@qq.com
 
 Education
 =======
 * Xi’an Jiaotong University, 09/2018-06/2021
-  * Master of Statistics
-  * The 3rd-class scholarship of the university, every year
-  * Courses: Advanced Probability theory, Stochastic process theory, Advanced Mathematical Statistics, Modern regression analysis, Modern optimization methods, Statistical computation, Machine learning, Financial models and financial optimization, etc.
+  * Master of Statistics.
+  * Prize: The 3rd-class scholarship of the university, every year.
+  * Courses: Advanced Probability Theory, Advanced Mathematical Statistics, Modern Regression Analysis, Statistical Computation, Machine Learning, Financial Models and Financial Optimization, etc.
 
 * Northeastern University at Qinhuangdao, 09/2014-06/2018
-  * Bachelor of Information and Computing Science
-  * The 2nd-class scholarship of National College students Mathematics Competition (for mathematics students) Hebei division, 2017; The 3rd-class scholarship of the university, 2016; The 3rd-class Provincial College Students Mathematics Competitio (for mathematics students), 2015;
+  * Bachelor of Information and Computing Science.
+  * Prize:
+    * The 2nd-class scholarship of National College students Mathematics Competition (for mathematics students) Hebei division, 2017; 
+    * The 3rd-class scholarship of the university, 2016; 
+    * The 3rd-class Provincial College Students Mathematics Competitio (for mathematics students), 2015;
   * Courses:Advanced algebra, Mathematical analysis, Operations research and optimization, Probability theory and mathematical statistics, Numerical analysis, Discrete mathematics, Real variables function, Data structures and algorithms, Operating system principles, Information theory, Computer networks, etc.
 
   

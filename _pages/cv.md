@@ -46,7 +46,9 @@ Other Highlights
 * Xi’an Jiaotong University TA, 2018
 * Xi’an Jiaotong University graduation defense students' leader,2021
 * [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog)
-* 非学术类
+* NEUQ Student girls' 400m No.2, 2015
+* Volunteer of Chinese Football Association Super League, 2016
+* Qinhuangdao 10 km race, No.8, 2017
 
 
 

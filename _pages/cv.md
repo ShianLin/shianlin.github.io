@@ -31,7 +31,7 @@ Academic Experience
 * Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number: ZL 2018 1 1595570.4 
 * Nonnegative matrix factorization [(NMF)](https://blog.csdn.net/weixin_43759518/article/details/117848483?spm=1001.2014.3001.5502). This method and its variant are frequently used in hyperspectral images  
 * [(Classification)](https://blog.csdn.net/weixin_43759518/article/details/113951274?spm=1001.2014.3001.5502) and clustering
-* Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision. [blog1](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4](https://blog.csdn.net/weixin_43759518/article/details/113455174)
+* Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2, ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4](https://blog.csdn.net/weixin_43759518/article/details/113455174)
 The hyperlinks are to the CSDN blog.
 
 Doing

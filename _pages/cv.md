@@ -49,7 +49,7 @@ Doing
 Other Highlights
 =======
 * Xi’an Jiaotong University TA, 2018;
-* Xi’an Jiaotong University graduation defense students' leader,2021;
+* Xi’an Jiaotong University graduation defense students' leader, 2021;
 * NEUQ Student girls' 400m No.2, 2015;
 * Volunteer of Chinese Football Association Super League, 2016;
 * Qinhuangdao 10 km race, No.8, 2017.

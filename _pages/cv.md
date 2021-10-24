@@ -32,72 +32,21 @@ Academic Experience
 * Nonnegative matrix factorization [(NMF)](https://blog.csdn.net/weixin_43759518/article/details/117848483?spm=1001.2014.3001.5502). This method and its variant are frequently used in hyperspectral images  
 * [(Classification)](https://blog.csdn.net/weixin_43759518/article/details/113951274?spm=1001.2014.3001.5502) and clustering
 * Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2, ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4](https://blog.csdn.net/weixin_43759518/article/details/113455174)
-The hyperlinks are to the CSDN blog.
+* The hyperlinks are to CSDN blog. School purchases papers, and the notes only currently available.
 
 Doing
 ======
-* Model validation risk management department
-* Kaggle
-* python数据结构的课jupyter notebook【kaggle】
+* Model validation in risk management department. More than 10 billion dollars are involved in the models
+* [Kaggle getting started](https://www.kaggle.com/shianlin)
+* python data structure.Notes already on github repository named [pk-ds](https://github.com/ShianLin/pk-ds) and some jupyter notebook on Kaggle
 
-活动
-======
-* 班委
-* 非学术类
 
 Other Highlights
 =======
-* 助教
-* 答辩学生组长
+* Xi’an Jiaotong University TA, 2018
+* Xi’an Jiaotong University graduation defense students' leader,2021
 * [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog)
+* 非学术类
 
 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

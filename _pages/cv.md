@@ -28,7 +28,7 @@ Education
     * The 2nd-class scholarship of National College Students Mathematics Competition (for mathematics students), 2017; 
     * The 3rd-class scholarship of the university, 2016; 
     * The 3rd-class Provincial College Students Mathematics Competition (for mathematics students), 2015.
-  * Courses:Advanced Algebra, Mathematical Analysis, Operations Research and Optimization, Probability Theory and Mathematical Statistics, Numerical Analysis, Discrete Mathematics, Data Structures and Algorithms, Operating System Principles, Information Theory, etc.
+  * Courses: Advanced Algebra, Mathematical Analysis, Operations Research and Optimization, Probability Theory and Mathematical Statistics, Numerical Analysis, Discrete Mathematics, Data Structures and Algorithms, Operating System Principles, Information Theory, etc.
 
   
 Academic Experience
@@ -36,7 +36,7 @@ Academic Experience
 * Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number: ZL 2018 1 1595570.4 
 * Nonnegative matrix factorization [(NMF)](https://blog.csdn.net/weixin_43759518/article/details/117848483?spm=1001.2014.3001.5502). This method and its variant are frequently used in hyperspectral images.  
 * [(Classification)](https://blog.csdn.net/weixin_43759518/article/details/113951274?spm=1001.2014.3001.5502) and clustering.
-* Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2, ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
+* Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2(It proves that the blogger is me), ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
 * The hyperlinks are to [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) blog. Xi’an Jiaotong University purchases papers, and the notes only currently available for applying.
 
 Doing

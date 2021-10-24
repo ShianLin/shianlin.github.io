@@ -22,13 +22,13 @@ Education
 
 * Northeastern University at Qinhuangdao, 09/2014-06/2018
   * Bachelor of Information and Computing Science
-  * The 2nd-class scholarship of National College students Mathematics Competition (for mathematics students) Hebei division,2017;The 3rd-class scholarship of the university, 2016;The 3rd-class Provincial College Students Mathematics Competitio (for mathematics students),2015;
+  * The 2nd-class scholarship of National College students Mathematics Competition (for mathematics students) Hebei division, 2017; The 3rd-class scholarship of the university, 2016; The 3rd-class Provincial College Students Mathematics Competitio (for mathematics students), 2015;
   * Courses:Advanced algebra, Mathematical analysis, Operations research and optimization, Probability theory and mathematical statistics, Numerical analysis, Discrete mathematics, Real variables function, Data structures and algorithms, Operating system principles, Information theory, Computer networks, etc.
 
   
 Academic Experience
 ======
-* 专利
+* Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number:ZL 2018 1 1595570.4 
 * nmf
 
 活动

@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Information
 =======
-* Female | November 21, 1995
+* Female, November 21, 1995
 * Email: shianlin2084@qq.com
 
 Education

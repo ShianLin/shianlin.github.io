@@ -28,26 +28,28 @@ Education
   
 Academic Experience
 ======
-* Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number:ZL 2018 1 1595570.4 
-* nmf
+* Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number: ZL 2018 1 1595570.4 
+* Nonnegative matrix factorization (NMF) and its variations. This method and its variant are frequently used in hyperspectral images  
+* Classification and clustering
+* Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision  
+The unpublished ones are on the CSDN blog.
+
+Doing
+======
+* Model validation risk management department
+* Kaggle
+* python数据结构的课jupyter notebook【kaggle】
 
 活动
 ======
 * 班委
 * 非学术类
 
-doing
-======
-* 风险管理部模型维护
-* KAGGLE比赛
-* python数据结构的课jupyter notebook【kaggle】
-
-
 Other Highlights
 =======
 * 助教
 * 答辩学生组长
-* CSDN
+* CSDN  <ul>{%https://mp.csdn.net/mp_blog/manage/article?spm=1010.2135.3001.5448 %}</ul>
 
 
 

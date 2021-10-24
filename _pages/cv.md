@@ -22,8 +22,8 @@ Education
 
 * Northeastern University at Qinhuangdao, 09/2014-06/2018
   * Bachelor of Information and Computing Science
-  * The 3rd-class scholarship of the university, every year;The 3rd-class Provincial College Students Mathematics Competitio(2015)
-  * Courses:Advanced algebra, Mathematical analysis, Operations research and optimization, Probability theory and mathematical statistics, Numerical analysis, Discrete mathematics, Real variables function, C++, Data structures and algorithms, Operating system principles, Information theory, Computer networks, etc.
+  * The 2nd-class scholarship of National College students Mathematics Competition (for mathematics students) Hebei division,2017;The 3rd-class scholarship of the university, 2016;The 3rd-class Provincial College Students Mathematics Competitio (for mathematics students),2015;
+  * Courses:Advanced algebra, Mathematical analysis, Operations research and optimization, Probability theory and mathematical statistics, Numerical analysis, Discrete mathematics, Real variables function, Data structures and algorithms, Operating system principles, Information theory, Computer networks, etc.
 
   
 Academic Experience

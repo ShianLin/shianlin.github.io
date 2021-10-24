@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Hangzhou,Zhejiang"
-title                    : "Shian"
+title                    : "Luo Lan"
 title_separator          : "-"
-name                     : &name "Shian"
+name                     : &name "Luo Lan"
 description              : &description "personal description"
 url                      : https://shianlin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shian"
-  avatar           : "Swim_Swim.jpg"
+  name             : "Luo Lan"
+  avatar           : "IMG_3879.jpg"
   bio              : "Python,Matlab,\n Sql,Latex/Markdown"
   location         : "Hangzhou,Zhejiang"
   #employer         :

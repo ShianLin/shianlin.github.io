@@ -32,7 +32,7 @@ Academic Experience
 * Nonnegative matrix factorization [(NMF)](https://blog.csdn.net/weixin_43759518/article/details/117848483?spm=1001.2014.3001.5502). This method and its variant are frequently used in hyperspectral images  
 * [(Classification)](https://blog.csdn.net/weixin_43759518/article/details/113951274?spm=1001.2014.3001.5502) and clustering
 * Random projection (RP). Used to reduce matrix dimensions and reduce complexity by reducing the need for precision. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2, ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4](https://blog.csdn.net/weixin_43759518/article/details/113455174)
-* The hyperlinks are to CSDN blog. School purchases papers, and the notes only currently available.
+* The hyperlinks are to [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) blog. XJTU purchases papers, and the notes only currently available.
 
 Doing
 ======
@@ -45,7 +45,6 @@ Other Highlights
 =======
 * Xi’an Jiaotong University TA, 2018
 * Xi’an Jiaotong University graduation defense students' leader,2021
-* [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog)
 * NEUQ Student girls' 400m No.2, 2015
 * Volunteer of Chinese Football Association Super League, 2016
 * Qinhuangdao 10 km race, No.8, 2017

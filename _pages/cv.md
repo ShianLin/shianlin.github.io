@@ -49,7 +49,7 @@ Other Highlights
 =======
 * 助教
 * 答辩学生组长
-* CSDN  <ul>{%https://mp.csdn.net/mp_blog/manage/article?spm=1010.2135.3001.5448 %}</ul>
+* [CSDN](https://mp.csdn.net/mp_blog/manage/article?spm=1010.2135.3001.5448)
 
 
 

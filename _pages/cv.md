@@ -41,8 +41,8 @@ Academic Experience
 
 Doing
 ======
-* Model validation in risk management department. More than 10 billion dollars are involved in the models.
-* Python data structure. Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds) and some jupyter notebook have been on Kaggle and colab.
+* Working: Model validation in risk management department. More than 10 billion dollars are involved in the models.
+* Learning: Python data structure. Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds) and some jupyter notebook have been on Kaggle and colab.
 
 
 Other Highlights

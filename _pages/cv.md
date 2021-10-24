@@ -42,16 +42,16 @@ Academic Experience
 Doing
 ======
 * Model validation in risk management department. More than 10 billion dollars are involved in the models.
-* Python data structure.Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds) and some jupyter notebook on Kaggle.
+* Python data structure. Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds) and some jupyter notebook have been on Kaggle.
 
 
 Other Highlights
 =======
 * Xi’an Jiaotong University TA, 2018;
 * Xi’an Jiaotong University graduation defense students' leader, 2021;
-* NEUQ Student girls' 400m No.2, 2015;
+* NEUQ Female Students' 400m No.2, 2015;
 * Volunteer of Chinese Football Association Super League, 2016;
-* Qinhuangdao 10 km race, No.8, 2017.
+* Qinhuangdao 10 KM Race, No.8, 2017.
 
 
 

@@ -25,7 +25,7 @@ Education
 * Northeastern University at Qinhuangdao, 09/2014-06/2018
   * BS in Information and Computing Science.
   * Prizes:
-    * The 2nd-class scholarship of National College Students Mathematics Competition (for mathematics students), 2017; 
+    * The 2nd-class scholarship of National College Students Mathematics Competition (for mathematics students)Hebei, 2017; 
     * The 3rd-class scholarship of the university, 2016; 
     * The 3rd-class Provincial College Students Mathematics Competition (for mathematics students), 2015.
   
@@ -39,7 +39,7 @@ Academic Experience
 
 Doing
 ======
-* Working: Model validation in risk management department. More than 10 billion dollars are involved in the models.
+* Working: Model validation in risk management department. More than 5 billion dollars are involved in the models.
 * Learning: Python data structure. Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds).
 
 
@@ -49,7 +49,7 @@ Other Highlights
 * Xi’an Jiaotong University Thesis Defense students' leader, 2021;
 * NEUQ Female Students' 400m No.2, 2015;
 * Volunteer of Chinese Football Association Super League, 2016;
-* Qinhuangdao 10 KM Race, No.8, 2017.
+* Qinhuangdao 10 KM Race (Female Students), No.8, 2017.
 
 
 

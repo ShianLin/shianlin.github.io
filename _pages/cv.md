@@ -52,6 +52,7 @@ Other Highlights
 * Qinhuangdao
   * NEUQ Female Students' 400m No.2, 2015;
   * Volunteer of Chinese Football Association Super League, 2016;
+  * CET6 539, 2016
   * Qinhuangdao 10 KM Race (Female Students), No.8, 2017.
 
 

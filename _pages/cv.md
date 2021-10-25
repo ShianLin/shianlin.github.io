@@ -40,7 +40,7 @@ Academic Experience
 
 Currently Doing
 ======
-* Working: Model validation in risk management department. More than 5 billion dollars are involved in the models.
+* Job: Model validation in risk management department. More than 5 billion dollars are involved in the models.
 * Learning: Python data structure. Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds); Deep learning.
 
 

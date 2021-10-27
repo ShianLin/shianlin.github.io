@@ -40,7 +40,7 @@ Academic Experience
 
 Currently Doing
 ======
-* Job: Model validation in risk management department. More than 5 billion dollars are involved in the models.
+* Job: Model validation in risk management department. This enterprise is one of the fortune 500 enterprises world-wide and more than 5 billion dollars are involved in the models.
 * Learning: Python data structure. Notes have already been on github repository named [pk-ds](https://github.com/ShianLin/pk-ds); Deep learning.
 
 
@@ -54,6 +54,3 @@ Other Highlights
   * Volunteer of Chinese Football Association Super League, 2016;
   * CET6 539, 2016
   * Qinhuangdao 10 KM Race (Female Students), No.8, 2017.
-
-
-

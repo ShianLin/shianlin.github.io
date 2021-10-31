@@ -17,14 +17,14 @@ Personal Information
 
 Education
 =======
-* Xi’an Jiaotong University, 09/2018-06/2021
+* Xi’an Jiaotong University(985), 09/2018-06/2021
   * MS in Statistics.
   * Prizes: The 3rd-class scholarship of the university, every year.
   * Courses: Advanced Probability Theory, Advanced Mathematical Statistics, Information Theory, Modern Regression Analysis, Statistical Computation, Machine Learning, Financial Models and Financial Optimization, etc.
   
 
 
-* Northeastern University at Qinhuangdao, 09/2014-06/2018
+* Northeastern University at Qinhuangdao(985), 09/2014-06/2018
   * BS in Information and Computing Science.
   * Prizes:
     * The 2nd-class scholarship of National College Students Mathematics Competition (for mathematics students) Hebei, 2017; 

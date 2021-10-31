@@ -38,7 +38,7 @@ Academic Experience
   * Nonnegative matrix factorization (NMF). The method and its variants are frequently used in face recognition.
 
 
-Job:
+Job
 ======
 Model validation in risk management department. The enterprise is one of the fortune 500 enterprises world-wide and more than 5 billion dollars are involved in the models.
 

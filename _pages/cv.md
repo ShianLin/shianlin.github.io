@@ -35,7 +35,7 @@ Academic Experience
 * Blog. All of these are in [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) blog. This [repository](https://github.com/ShianLin/csdn_blog) can be referred. Xi’an Jiaotong University pays the price of the papers, and the notes only currently available for applying. 
   * Classification and clustering.
   * Random-projection (RP). It's to reduce matrix dimensions and complexity. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2(It proves that the blog is mine.), ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
-  * Nonnegative matrix factorization (NMF). In applications such as processing of face recognition, non-negativity is inherent to the data being considered. 
+  * Nonnegative matrix factorization (NMF). The method and its variants are frequently used in face recognition.
 
 
 Job:
@@ -47,7 +47,7 @@ Model validation in risk management department. The enterprise is one of the for
 Other Highlights
 =======
 * Xi’an
-  * Xi’an Jiaotong University TA, 2018;
+  * Xi’an Jiaotong University teaching assistant, 2018;
   * Xi’an Jiaotong University Thesis Defense students' leader, 2021;
 * Qinhuangdao
   * NEUQ Female Students' 400m No.2, 2015;

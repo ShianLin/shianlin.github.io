@@ -25,7 +25,7 @@ Education
 * Northeastern University at Qinhuangdao, 09/2014-06/2018
   * BS in Information and Computing Science.
   * Prizes:
-    * The 2nd-class scholarship of National College Students Mathematics Competition (for mathematics students)Hebei, 2017; 
+    * The 2nd-class scholarship of National College Students Mathematics Competition (for mathematics students) Hebei, 2017; 
     * The 3rd-class scholarship of the university, 2016; 
     * The 3rd-class Provincial College Students Mathematics Competition (for mathematics students), 2015.
   
@@ -35,7 +35,7 @@ Academic Experience
 * Blog. All of these are in [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) blog. This [repository](https://github.com/ShianLin/csdn_blog) can be referred. Xi’an Jiaotong University pays the price of the papers, and the notes only currently available for applying. 
   * Classification and clustering.
   * Random-projection (RP). It's to reduce matrix dimensions and complexity. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2(It proves that the blog is mine.), ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
-  * Nonnegative matrix factorization NMF. The method and its variants are frequently used in hyperspectral images. With the random-projection to design a new NMF algorithm, we finally found out the pure-pixel assumption can not perform so well.  
+  * Nonnegative matrix factorization (NMF).  
 
 
 Currently Doing

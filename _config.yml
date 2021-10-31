@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Hangzhou,Zhejiang"
-title                    : "Lan Luo/ 罗兰"
+title                    : "Lan Luo"
 title_separator          : "-"
 name                     : &name "Lan Luo"
 description              : &description "personal description"

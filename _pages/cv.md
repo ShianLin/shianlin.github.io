@@ -38,10 +38,10 @@ Academic Experience
   * Nonnegative matrix factorization (NMF). In applications such as processing of face recognition, non-negativity is inherent to the data being considered. 
 
 
-Currently Doing
+Job:
 ======
-* Job: Model validation in risk management department. This enterprise is one of the fortune 500 enterprises world-wide and more than 5 billion dollars are involved in the models.
-* Learning: Python data structure; Deep learning.
+Model validation in risk management department. The enterprise is one of the fortune 500 enterprises world-wide and more than 5 billion dollars are involved in the models.
+
 
 
 Other Highlights

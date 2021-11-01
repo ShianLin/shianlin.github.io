@@ -39,7 +39,7 @@ Academic Experience
   * Machine learning, including classification and clustering, dimensionality reduction, etc.
   * Random-projection (RP). It's to reduce matrix dimensions and complexity. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2(It proves that the blog is mine.), ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
   * Nonnegative matrix factorization (NMF). The method and its variants are frequently used in face recognition and hyperspectral images.
-  * sufficient dimension reduction. In statistics, sufficient dimension reduction (SDR) is a paradigm for analyzing data that combines the ideas of dimension reduction with the concept of sufficiency. It's No.1 Google Chinese search result that my blog is.
+  * Sufficient dimension reduction(SDR). In statistics, sufficient dimension reduction is a paradigm for analyzing data that combines the ideas of dimension reduction with the concept of sufficiency. It's No.1 Google Chinese search result that my blog is.
 
 
 Job

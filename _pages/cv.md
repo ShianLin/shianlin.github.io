@@ -44,7 +44,7 @@ Academic Experience
 
 Job
 ======
-* Model validation in risk management department in the head office. The enterprise is one of the fortune 500 enterprises world-wide and more than 5 billion dollars are involved in the models. 
+* Model validation in risk management department in the head office. The enterprise is one of the fortune 500 enterprises world-wide and more than 5 billion dollars the models deal with. 
 
 
 

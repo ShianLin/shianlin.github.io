@@ -42,7 +42,6 @@ Academic Experience
   * Sufficient dimension reduction(SDR). In statistics, sufficient dimension reduction is a paradigm for analyzing data that combines the ideas of dimension reduction with the concept of sufficiency. It's No.1 Google Chinese search [result](https://github.com/ShianLin/csdn_blog/blob/main/SDR_result.pdf) that my [blog](https://blog.csdn.net/weixin_43759518/article/details/116307309) is, using 'Sufficient dimension reduction'(Chinese) only.
 
 
-
 Job
 ======
 * Model validation, 07/2021 - 

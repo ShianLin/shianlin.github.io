@@ -11,8 +11,8 @@ redirect_from:
 
 Personal Information
 =======
-* Female
-* November 21, 1995
+* Female.
+* November 21, 1995.
 * Email: shianlin2084@qq.com
 
 Education
@@ -28,14 +28,14 @@ Education
   * BS in Information and Computing Science.
   * Prizes:
     * The 2nd-class prize of The Chinese Mathematics Competitions (CMC, for mathematics students), 2017. 
-    * The 3rd-class scholarship of the university, 2016. 
+    * The 3rd-class scholarship of the university, 2016.
     * The 3rd-class prize of The Provincial Mathematics Competitions (for mathematics students), 2015.
   * Courses: Advanced Algebra, Mathematical Analysis, Information Theory, Operations Research and Optimization, Probability Theory and Mathematical Statistics, Numerical Analysis, Discrete Mathematics, Data Structures and Algorithms, Operating System Principles, etc.
   
 Academic Experience
 ======
 * Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number: ZL 2018 1 1595570.4. It estimates the actual dimensions of the hyperspectral images.
-* Research Projects. I put what can be public on [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) blogs. This [repository](https://github.com/ShianLin/csdn_blog) can be a backup. Xi’an Jiaotong University pays the price of the papers, and the notes only currently available for applying. 
+* Research Projects. I put what can be public on [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) blogs. This [repository](https://github.com/ShianLin/csdn_blog) can be a backup. Xi’an Jiaotong University pays the price of the papers, and the notes only currently available for applying.
   * Machine Learning(ML). Including classification and clustering, dimensionality reduction, ensemble, etc.
   * Random-Projection (RP). It's for dimensionality reduction. [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2(It proves that the blog is mine.), ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
   * Nonnegative Matrix Factorization (NMF). The method and its variants are frequently used in face recognition and hyperspectral image.
@@ -45,7 +45,7 @@ Academic Experience
 Job
 ======
 * In the risk management department of the head office. The enterprise is one of the fortune 500 enterprises world-wide, 07/2021 -
-  * Model Validation. More than 5 billion dollars the models deal with. 
+  * Model Validation. More than 5 billion dollars the models deal with.
   * Customer Profile. Analyzing data and designing models to tell the possibility of customer default.
 
 

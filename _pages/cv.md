@@ -27,8 +27,8 @@ Education
 * Northeastern University at Qinhuangdao (985), 09/2014-06/2018
   * BS in Information and Computing Science.
   * Prizes:
-    * The 2nd-class prize of The Chinese Mathematics Competitions (CMC, for mathematics students), 2017; 
-    * The 3rd-class scholarship of the university, 2016; 
+    * The 2nd-class prize of The Chinese Mathematics Competitions (CMC, for mathematics students), 2017. 
+    * The 3rd-class scholarship of the university, 2016. 
     * The 3rd-class prize of The Provincial Mathematics Competitions (for mathematics students), 2015.
   * Courses: Advanced Algebra, Mathematical Analysis, Information Theory, Operations Research and Optimization, Probability Theory and Mathematical Statistics, Numerical Analysis, Discrete Mathematics, Data Structures and Algorithms, Operating System Principles, etc.
   
@@ -53,10 +53,10 @@ Job
 Other Highlights
 =======
 * Xi’an
-  * Xi’an Jiaotong University teaching assistant, 2018;
-  * Xi’an Jiaotong University Thesis Defense students' leader, 2021;
+  * Xi’an Jiaotong University teaching assistant, 2018.
+  * Xi’an Jiaotong University Thesis Defense students' leader, 2021.
 * Qinhuangdao
-  * NEUQ Female Students' 400m No.2, 2015;
-  * Volunteer of Chinese Football Association Super League, 2016;
-  * CET6 539, 2016;
+  * NEUQ Female Students' 400m No.2, 2015.
+  * Volunteer of Chinese Football Association Super League, 2016.
+  * CET6 539, 2016.
   * Qinhuangdao 10 KM Race (Female Students), No.8, 2017.

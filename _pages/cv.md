@@ -60,7 +60,7 @@ Other Highlights
   * Volunteer of Chinese Football Association Super League, 2016.
   * CET6 539, 2016.
   * Qinhuangdao 10 KM Race (Female Students), No.8, 2017.
-* Sports: running, badminton, etc.
+* Sports: running, badminton, yoga, etc.
 
 
 Hey (●'◡'●)

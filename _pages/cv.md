@@ -15,7 +15,7 @@ Personal Information
 * November 21, 1995.
 * Email: shianlin2084@qq.com.
 
-Education
+Education Experience
 =======
 * Xi’an Jiaotong University (C9), 09/2018-06/2021
   * MS in Statistics.

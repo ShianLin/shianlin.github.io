@@ -64,4 +64,4 @@ Other Highlights
 *****
 Hey (●'◡'●)
 ======
-WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? (๑•̀ㅂ•́)و✧
+WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED?

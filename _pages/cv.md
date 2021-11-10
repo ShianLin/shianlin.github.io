@@ -65,4 +65,4 @@ Other Highlights
 
 Hey (●'◡'●)
 ======
-WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? Stop visiting my homepage again and again. I believe I am the best candidate!
+WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? I believe I am the best candidate!

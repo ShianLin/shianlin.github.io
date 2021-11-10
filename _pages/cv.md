@@ -60,8 +60,9 @@ Other Highlights
   * Volunteer of Chinese Football Association Super League, 2016.
   * CET6 539, 2016.
   * Qinhuangdao 10 KM Race (Female Students), No.8, 2017.
+* Sports: running, badminton, etc.
 
 
 Hey (●'◡'●)
 ======
-WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? I believe I am the best candidate.
+WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? Stop visiting my homepage again and again. I believe I am the best candidate!

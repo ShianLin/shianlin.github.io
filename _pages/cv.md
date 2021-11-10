@@ -42,7 +42,7 @@ Academic Experience
   * Sufficient Dimension Reduction(SDR). It's No.1 Google Chinese search [result](https://github.com/ShianLin/csdn_blog/blob/main/SDR_result.pdf) that my [blog](https://blog.csdn.net/weixin_43759518/article/details/116307309) is, using 'Sufficient dimension reduction'(Chinese) only.
 
 
-Job
+Work Experience
 ======
 * In the risk management department of the head office. The enterprise is one of the fortune 500 enterprises world-wide, 07/2021 -
   * Model Validation. More than 5 billion dollars the models deal with.
@@ -62,6 +62,6 @@ Other Highlights
   * Qinhuangdao 10 KM Race (Female Students), No.8, 2017.
 
 
-Hey
+Hey (●'◡'●)
 ======
-WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? (●'◡'●)
+WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? (๑•̀ㅂ•́)و✧

@@ -1,4 +1,4 @@
-# HEY(●'◡'●)WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? I believe I am the best candidate!
+# HEY,WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? I believe I am the best candidate (●'◡'●)
 
 
 Note:

@@ -13,7 +13,7 @@ Personal Information
 =======
 * Female.
 * November 21, 1995.
-* Email: shianlin2084@qq.com.
+* Email: <shianlin2084@qq.com>.
 
 Education Experience
 =======

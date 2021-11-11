@@ -45,8 +45,8 @@ Academic Experience
 Work Experience
 ======
 * In the risk management department of the head office. The enterprise is one of the fortune 500 enterprises world-wide, 07/2021 -
-  * Model Validation. More than 5 billion dollars the models deal with.
-  * Customer Profile. Analyzing data and designing models to tell the possibility of customer default.
+  * Model Validation.
+  * Customer Profile. Analyzing data and designing models to tell the default risk.
 
 
 

@@ -63,6 +63,6 @@ Other Highlights
 * Sports: running, badminton, etc.
 
 
-Hey (●'◡'●)
+[Hey (●'◡'●)](https://github.com/ShianLin/shianlin.github.io/blob/main/README.md)
 ======
-WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? I believe I am the best candidate!
+

@@ -12,7 +12,7 @@ redirect_from:
 Personal Information
 =======
 * Female.
-* November 21, 1995.
+* November 1995.
 
 
 Education Experience

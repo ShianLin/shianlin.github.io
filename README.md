@@ -1,4 +1,4 @@
-# HEY,WHY NOT EMAIL ME IF YOU THINK I AM QUALIFIED? I could be the best candidate (●'◡'●)
+# Hello(●'◡'●) Would you be willing to email me？ I could be the best candidate (๑•̀ㅂ•́)و✧
 
 
 ***

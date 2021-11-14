@@ -63,6 +63,6 @@ Other Highlights
 * Sports: running, badminton, etc.
 
 
-[Hey (●'◡'●)](https://github.com/ShianLin/shianlin.github.io/blob/main/README.md)
+[Hey (๑•̀ㅂ•́)و✧](https://github.com/ShianLin/shianlin.github.io/blob/main/README.md)
 ======
 

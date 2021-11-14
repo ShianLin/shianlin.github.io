@@ -44,7 +44,7 @@ Academic Experience
 
 Work Experience
 ======
-* In the risk management department of the head office. The enterprise is one of the fortune 500 enterprises world-wide, 07/2021 -
+* In the risk management department of the head office. The enterprise is in the Fortune Global 500 list, 07/2021 -
   * Model Validation.
   * Customer Profile. Analyzing data and designing models to tell the default risk.
 

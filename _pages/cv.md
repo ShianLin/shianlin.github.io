@@ -17,14 +17,14 @@ Personal Information
 
 Education Experience
 =======
-* Xi’an Jiaotong University (C9), 09/2018-06/2021
+* Xi’an Jiaotong University (C9), 2018.09 - 2021.06
   * MS in Statistics.
   * Prizes: The 3rd-class scholarship of the university, every year.
   * Courses: Advanced Probability Theory, Advanced Mathematical Statistics, Information Theory, Modern Regression Analysis, Statistical Computation, Machine Learning, Financial Models and Financial Optimization, etc.
   
 
 
-* Northeastern University at Qinhuangdao (985), 09/2014-06/2018
+* Northeastern University at Qinhuangdao (985), 2014.09 - 2018.06
   * BS in Information and Computing Science.
   * Prizes:
     * The 2nd-class prize of The Chinese Mathematics Competitions (CMC, for mathematics students), 2017. 
@@ -44,7 +44,7 @@ Academic Experience
 
 Work Experience
 ======
-* In the risk management department of the head office. The enterprise is in the Fortune Global 500 list, 07/2021 -
+* In the risk management department of the head office. The enterprise is in the Fortune Global 500 list, 2021.07 -
   * Model Validation.
   * Customer Profile. Analyzing data and designing models to tell the default risk.
 

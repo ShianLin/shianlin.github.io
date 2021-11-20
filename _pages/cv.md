@@ -34,7 +34,7 @@ Education Experience
   
 Academic Experience
 ======
-* Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". It estimates the actual dimensions of the hyperspectral images.
+* Patent. "A virtual dimension estimation method for hyperspectral images based on ridge ratio shrinkage". Patent number: [ZL 2018 1 1595570.4. ](https://github.com/ShianLin/shianlin.github.io/blob/main/README.md)It estimates the actual dimensions of the hyperspectral images.
 * Research Projects. I put what can be public on [CSDN](https://blog.csdn.net/weixin_43759518?spm=1011.2124.3001.5343&type=blog) . This [repository](https://github.com/ShianLin/csdn_blog) can be a backup. The notes are only currently available for applying.
   * Machine Learning (ML). Including classification and clustering, dimensionality reduction, ensemble, etc.
   * Random Projection (RP). It's for dimensionality reduction. Here are examples: [blog1, ](https://blog.csdn.net/weixin_43759518/article/details/113813986?spm=1001.2014.3001.5502)[blog2(It proves that I am the blogger), ](https://blog.csdn.net/weixin_43759518/article/details/113774085)[blog3, ](https://blog.csdn.net/weixin_43759518/article/details/116022476?spm=1001.2014.3001.5502)[blog4.](https://blog.csdn.net/weixin_43759518/article/details/113455174)
@@ -63,6 +63,5 @@ Other Highlights
 * Sports: running, badminton, etc.
 
 
-[Hello (●'◡'●)](https://github.com/ShianLin/shianlin.github.io/blob/main/README.md)
 ======
 
